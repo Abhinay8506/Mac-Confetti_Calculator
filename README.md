@@ -2,10 +2,9 @@
 ![image](https://github.com/ankur12345678/Confetti_Calculator_Final/assets/32995701/ada2c96e-a79b-450d-b70e-e40645c997df)
 
 #Calculator History Available
-![image](https://github.com/ankur12345678/Confetti_Calculator_Final/assets/32995701/589f6ee6-2563-4605-be64-022b37528269)
+![image](https://github.com/a/Confetti_Calculator_Final/assets/32995701/589f6ee6-2563-4605-be64-022b37528269)
 
-Live link : https://confetti-calculator-react.netlify.app/
-
+Live link : 
 This project is a scientific calculator built with React. It includes standard arithmetic operations, scientific functions, and a unique feature where a confetti explosion is triggered when an operation involves the numbers 5 and 6.
 
 Features
