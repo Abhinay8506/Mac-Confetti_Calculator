@@ -1,5 +1,8 @@
 
 Live link : https://maconfetticalculator.netlify.app/
+
+
+
 This project is a scientific calculator built with React. It includes standard arithmetic operations, scientific functions, and a unique feature where a confetti explosion is triggered when an operation involves the numbers 5 and 6.
 
 Features
